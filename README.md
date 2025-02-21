@@ -26,7 +26,7 @@
 2. Masuk ke direktori proyek:
 
 	```sh
-	cd PawangCuaca
+	cd Pawang-Cuaca
 	```
 
 3. Buka proyek di **Android Studio**.
