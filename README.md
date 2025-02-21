@@ -32,10 +32,11 @@
 4. Jalankan aplikasi pada emulator atau perangkat fisik.
 
 ## 📖 CARA PENGGUNAAN
-1. **Buka Aplikasi** 📱
-2. **Izinkan Akses Lokasi** untuk mendapatkan informasi cuaca yang sesuai.
-3. **Lihat Perkiraan Cuaca** secara real-time.
-4. **Cek Prediksi Cuaca 7 Hari** untuk perencanaan ke depan.
+1. **Buat Akun AccuWeather developer Dan Masukan API Ke String.xml**
+2. **Buka Aplikasi** 📱
+3. **Izinkan Akses Lokasi** untuk mendapatkan informasi cuaca yang sesuai.
+4. **Lihat Perkiraan Cuaca** secara real-time.
+5. **Cek Prediksi Cuaca 7 Hari** untuk perencanaan ke depan.
 
 ## 🤝 KONTRIBUSI
 Kami menyambut kontribusi dari siapa pun! Jika Anda ingin berkontribusi:
