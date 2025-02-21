@@ -12,7 +12,6 @@
 - 📆 **Prediksi Cuaca 7 Hari Kedepan** untuk membantu perencanaan aktivitas.
 - 🤖 **Prediksi Cuaca Menggunakan Machine Learning** untuk meningkatkan akurasi prakiraan.
 - 🎨 **Tampilan yang mudah dipahami**, cocok untuk semua pengguna.
-- 🔔 **Notifikasi cuaca ekstrem** untuk keselamatan pengguna.
 - 🔍 **Pencarian wilayah** (⚠️ *masih dalam pengembangan*).
 - ⚡ Integrasi dengan **API AccuWeather** untuk data cuaca yang lebih akurat.
 
