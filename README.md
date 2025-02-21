@@ -1,4 +1,4 @@
-# 🌦️ PAWANGCUACA
+# 🌦️ PAWANG CUACA
 
 <p align="center">
   <img src="app/src/main/res/drawable/logo.png" alt="PawangCuaca Logo" width="150">
