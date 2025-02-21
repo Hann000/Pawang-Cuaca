@@ -20,7 +20,7 @@
 1. Clone repositori ini ke perangkat Anda:
 
 	```sh
-	git clone https://github.com/username/PawangCuaca.git
+	git clone https://github.com/Hann000/Pawang-Cuaca.git
 	```
 
 2. Masuk ke direktori proyek:
