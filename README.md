@@ -37,7 +37,6 @@
 2. **Izinkan Akses Lokasi** untuk mendapatkan informasi cuaca yang sesuai.
 3. **Lihat Perkiraan Cuaca** secara real-time.
 4. **Cek Prediksi Cuaca 7 Hari** untuk perencanaan ke depan.
-5. **Dapatkan Notifikasi** tentang cuaca ekstrem.
 
 ## 🤝 KONTRIBUSI
 Kami menyambut kontribusi dari siapa pun! Jika Anda ingin berkontribusi:
