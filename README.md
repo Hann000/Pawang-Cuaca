@@ -1,4 +1,8 @@
-# 🌦️ PAWANG CUACA
+# 🌦️ PAWANGCUACA
+
+<p align="center">
+  <img src="app/src/main/res/drawable/logo.png" alt="PawangCuaca Logo" width="150">
+</p>
 
 ## 📌 DESKRIPSI
 **PawangCuaca** adalah aplikasi Android yang memberikan informasi cuaca terkini berdasarkan lokasi pengguna. Aplikasi ini menggunakan data dari **API AccuWeather** untuk menampilkan informasi cuaca real-time seperti suhu, kelembaban, dan kondisi atmosfer lainnya dengan akurasi tinggi.
@@ -33,6 +37,7 @@
 2. **Izinkan Akses Lokasi** untuk mendapatkan informasi cuaca yang sesuai.
 3. **Lihat Perkiraan Cuaca** secara real-time.
 4. **Cek Prediksi Cuaca 7 Hari** untuk perencanaan ke depan.
+5. **Dapatkan Notifikasi** tentang cuaca ekstrem.
 
 ## 🤝 KONTRIBUSI
 Kami menyambut kontribusi dari siapa pun! Jika Anda ingin berkontribusi:
@@ -41,7 +46,7 @@ Kami menyambut kontribusi dari siapa pun! Jika Anda ingin berkontribusi:
 3. Kirimkan pull request setelah perubahan selesai.
 
 ## 📜 LISENSI
-Proyek ini dilisensikan di bawah **MIT License**. Lihat file [LICENSE](LICENSE.txt) untuk informasi lebih lanjut.
+Proyek ini dilisensikan di bawah **MIT License**. Lihat file [LICENSE](LICENSE) untuk informasi lebih lanjut.
 
 💡 **Tetap aman dan selalu periksa cuaca sebelum keluar! 🌤️**
 
