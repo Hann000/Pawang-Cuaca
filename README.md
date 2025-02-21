@@ -1,4 +1,4 @@
-# 🌦️ PAWANGCUACA
+# 🌦️ PAWANG CUACA
 
 ## 📌 DESKRIPSI
 **PawangCuaca** adalah aplikasi Android yang memberikan informasi cuaca terkini berdasarkan lokasi pengguna. Aplikasi ini menggunakan data dari **API AccuWeather** untuk menampilkan informasi cuaca real-time seperti suhu, kelembaban, dan kondisi atmosfer lainnya dengan akurasi tinggi.
