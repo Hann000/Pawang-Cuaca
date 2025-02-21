@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingVertical="20dp"
+    android:paddingHorizontal="16dp"
+    android:background="@drawable/gradient_background_banner">
+
+        <TextView
+        android:id="@+id/dayTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:text="Sat"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+        android:id="@+id/pic"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="16dp"
+        app:layout_constraintBottom_toBottomOf="@+id/dayTxt"
+        app:layout_constraintStart_toEndOf="@+id/dayTxt"
+        app:layout_constraintTop_toTopOf="@+id/dayTxt"
+        app:srcCompat="@drawable/sunny" />
+
+        <TextView
+        android:id="@+id/statusTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dp"
+        android:text="Sunny"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="@+id/pic"
+        app:layout_constraintStart_toEndOf="@+id/pic"
+        app:layout_constraintTop_toTopOf="@+id/pic" />
+
+        <TextView
+        android:id="@+id/highTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:text="20°C"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="@+id/statusTxt"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/statusTxt" />
+
+        <TextView
+        android:id="@+id/lowTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:text="10°C"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="@+id/highTxt"
+        app:layout_constraintEnd_toStartOf="@+id/highTxt"
+        app:layout_constraintTop_toTopOf="@+id/highTxt" />
+    </androidx.constraintlayout.widget.ConstraintLayout>

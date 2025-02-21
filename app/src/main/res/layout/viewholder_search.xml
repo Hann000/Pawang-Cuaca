@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardCornerRadius="16dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:background="@drawable/gradient_background_banner">
+
+        <TextView
+            android:id="@+id/locationName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Umban Sari"
+            android:textColor="@color/text_color"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/weatherStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/locationName"
+            android:layout_marginTop="4dp"
+            android:text="Berawan"
+            android:textColor="@color/text_color"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/lowTempText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@id/weatherStatus"
+            android:layout_toEndOf="@id/weatherStatus"
+            android:layout_marginStart="8dp"
+            android:text="24°"
+            android:textColor="@color/text_color"
+            android:textSize="14sp" />
+        <TextView
+            android:id="@+id/highTempText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@id/weatherStatus"
+            android:layout_toEndOf="@id/weatherStatus"
+            android:layout_marginStart="35dp"
+            android:text="31°"
+            android:textColor="@color/text_color"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/mainTemp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:text="27°"
+            android:textColor="@color/text_color"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>
