@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Pawang Cuaca</string>
-    <string name="api_key2">AtAMMcA8SHfdODlYWsZOyjN9GPUiYRSy</string>
-    <string name="api_key1">TRjmF9WlKJw5Xxdw3jcfaApwPm9S8cQI</string>
-    <string name="api_key">OnDHJHvjFxZBlKCWktQTKAmE1XxQKH13</string>
+    <string name="api_key2">"API ACCUWEATHER"</string>
+    <string name="api_key1">"API ACCUWEATHER"</string>
+    <string name="api_key">"API ACCUWEATHER"</string>
 
     <string name="prediksi">PREDIKSI</string>
 
