@@ -41,7 +41,7 @@ Kami menyambut kontribusi dari siapa pun! Jika Anda ingin berkontribusi:
 3. Kirimkan pull request setelah perubahan selesai.
 
 ## 📜 LISENSI
-Proyek ini dilisensikan di bawah **MIT License**. Lihat file [LICENSE](LICENSE) untuk informasi lebih lanjut.
+Proyek ini dilisensikan di bawah **MIT License**. Lihat file [LICENSE.txt](LICENSE) untuk informasi lebih lanjut.
 
 💡 **Tetap aman dan selalu periksa cuaca sebelum keluar! 🌤️**
 
